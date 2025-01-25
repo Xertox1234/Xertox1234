@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Xertox1234
-- 👀 I’m interested in ... Artificial Intelligence
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Cybersecurity Projects
+- 👀 I’m interested in ... Learning to Code
+- 🌱 I’m currently learning ... Python, Javascript, HTML, CSS
+- 💞️ I’m looking to collaborate on ... AI related projects
 - 📫 How to reach me ... https://www.linkedin.com/in/williamtower/
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... The sun isn't actually yellow... it's white.
